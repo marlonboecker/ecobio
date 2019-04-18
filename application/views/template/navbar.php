@@ -86,7 +86,7 @@
                             </ul>
                         </nav>
                         <a href="javascript:;" class="cr-btn cr-btn-sm">
-                            <span>Buy now</span>
+                            <span><i class="fas fa-cart-arrow-down"></i> Carrinho</span>
                         </a>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         <img src="images/logo.png" alt="mobile logo">
                     </a>
                     <a href="javascript:;" class="cr-btn cr-btn-sm">
-                        <span>Buy now</span>
+                        <span><i class="fas fa-cart-arrow-down"></i></span>
                     </a>
                 </div>
             </div>

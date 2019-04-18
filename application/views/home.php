@@ -9,9 +9,8 @@
             <div class="row">
                 <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 col-12 offset-0">
                     <div class="section-title text-center">
-                        <h2>We Provide Beautiful Design</h2>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                            classical Latin literature from 45 BC, making it over 2000 years old !</p>
+                        <h2>Nós defendemos o meio ambiente.</h2>
+                        <p>Acreditamos num mundo melhor e por isso apostamos em produtos que são facilmente assimilados pela natureza, contribuindo para o desenvolvimento sustentável da sociedade.</p>
                     </div>
                 </div>
             </div>
@@ -21,10 +20,10 @@
             <div class="portfolio-wrap">
                 <!-- Poftfolio Filters -->
                 <div class="portfolio-filters">
-                    <button class="is-checked" data-filter="*">ALL</button>
-                    <button data-filter=".pfolio-filter-design">DESIGN</button>
-                    <button data-filter=".pfolio-filter-creative">CREATIVE</button>
-                    <button data-filter=".pfolio-filter-photoshop">PHOTOSHOP</button>
+                    <button class="is-checked" data-filter="*">TODOS</button>
+                    <button data-filter=".pfolio-filter-design">CANUDOS</button>
+                    <button data-filter=".pfolio-filter-creative">COPOS E PRATOS</button>
+                    <button data-filter=".pfolio-filter-photoshop">TALHERES</button>
                 </div>
                 <!--// Poftfolio Filters -->
 
@@ -46,7 +45,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Design</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -67,7 +66,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Artwork</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -88,7 +87,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Artwork</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -109,7 +108,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Design</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -130,7 +129,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Artwork</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -151,7 +150,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Design</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -172,7 +171,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Artwork</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -193,7 +192,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Design</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -214,7 +213,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Artwork</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -235,7 +234,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Design</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -256,7 +255,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Artwork</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -277,7 +276,7 @@
                                         <i class="icofont-search-2"></i>
                                     </a>
                                     <h3>
-                                        <a href="single.html">Creative Design</a>
+                                        <a href="single.html">Detalhes do Produto</a>
                                     </h3>
                                 </div>
                             </div>
@@ -290,7 +289,7 @@
 
                 <div class="portfolio-load-more-button text-center">
                     <button class="load-more-toggle cr-btn">
-                        <span>Load More</span>
+                        <span>TODOS OS PRODUTOS</span>
                     </button>
                 </div>
 
@@ -307,9 +306,11 @@
                 <div class="col-lg-10 offset-lg-1 col-12 offset-0">
                     <div class="callto-action">
                         <div class="callto-action-inner">
-                            <h2>To start your project with us</h2>
+                            <h2>Fique por dentro! <br>
+                                <span class="small">Dicas de sustentabilidade, idéias, artigos e muito mais.</span>
+                            </h2>
                             <a href="javascript:;" class="cr-btn cr-btn-white">
-                                <span>Purchase Now</span>
+                                <span>Inscreva-se</span>
                             </a>
                         </div>
                     </div>
